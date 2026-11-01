@@ -1,0 +1,11 @@
+# build output
+build/
+*.app
+
+# personal radio data — channel plans and memory dumps stay local
+channels/
+*.img
+
+# macOS
+.DS_Store
+*.log
